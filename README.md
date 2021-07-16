@@ -35,6 +35,10 @@
 [<img align="left" alt="Oculus" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/oculus.svg" />][oculusproject]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][linkedin]
 
+### Profile Stats:
+
+[![Sujith's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujith0nair)](https://github.com/anuraghazra/github-readme-stats)
+
 <br />
 <br />
 
