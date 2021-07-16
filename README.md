@@ -5,11 +5,13 @@
 
 ### Profile Stats:
 
-[![Sujith's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujith0nair&hide=contribs,prs,issues&show_icons=true&theme=radical)](https://github.com/sujith0nair/sujith0nair)
+[![Sujith's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujith0nair&hide=contribs,prs,issues&show_icons=true&theme=gradient)](https://github.com/sujith0nair/sujith0nair)
 
 *Note: The commits are not much, since my working account is private. But will be soon contributing to the community with amazing projects which are underway!*
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujith0nair)](https://github.com/sujith0nair/sujith0nair)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujith0nair&layout=compact)](https://github.com/sujith0nair/sujith0nair)
+
+[![Sujith's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sujith0nair)](https://github.com/sujith0nair/sujith0nair)
 
 ## You know me better than you think!!
 
