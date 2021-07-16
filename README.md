@@ -18,7 +18,7 @@
 - 🔭 I currently work as Gameplay Programmer at SuperBolter
 - 🌱 Crunching design patterns and S.O.L.I.D concepts along the way
 - 👯 Expert in WebGL (*Know better by visiting our site using link above*)
-- 🥅 Apex Legends player -> Catch me with id: Sujith0Nair <*Mozambique🔫 here!*>
+- 🥅 Apex Legends player -> Catch me with id: Sujith0Nair <*Mozambique🔫 here!*> [<img align="left" alt="Apex Legends" width="26px" src="<img src="https://img.icons8.com/nolan/64/apex-legends.png"/>" />][apex]
 - ⚡ Fun fact: I write short stories in wattpad in my free time and ponder about infinity[♾]
 
 
@@ -51,6 +51,7 @@
 <br />
 
 ---
+[apex]: https://www.ea.com/games/apex-legends
 [website]: https://superbolter.com
 [youtube]: https://www.youtube.com/channel/UCyTOcnkSbZJ-4Kls0PNGF3g
 [instagram]: https://instagram.com/sujith0nair
