@@ -1,8 +1,8 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hi there, I'm Sujith 👋
 
 [![Website](https://img.shields.io/website?label=SuperBolter.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.superbolter.com)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## You know me better than you think!!
 
 - 🔭 I currently work as GamePlay Programmer at SuperBolter
 - 🌱 Crunching design patterns and S.O.L.I.D concepts along the way
