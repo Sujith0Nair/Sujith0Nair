@@ -9,6 +9,8 @@
 
 *Note: The commits are not much, since my working account is private. But will be soon contributing to the community with amazing projects which are underway!*
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujith0nair)](https://github.com/sujith0nair/sujith0nair)
+
 ## You know me better than you think!!
 
 - 🔭 I currently work as Gameplay Programmer at SuperBolter
