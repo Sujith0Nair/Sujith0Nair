@@ -21,9 +21,6 @@
 - 🥅 Apex Legends player -> Catch me with id: Sujith0Nair <*Mozambique🔫 here!*>
 - ⚡ Fun fact: I write short stories in wattpad in my free time and ponder about infinity[♾]
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Sujith Spotify Playing" width="350" />](https://open.spotify.com/user/k9yr4po3ajd6kk7awuxwt3ala?si=Isy3JF7IQGaT8xR8yl5SxQ)
 
 ### Languages and Tools:
 
@@ -37,6 +34,10 @@
 [<img align="left" alt="Oculus" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/oculus.svg" />][oculusproject]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][linkedin]
 <br />
+
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Sujith Spotify Playing" width="350" />](https://open.spotify.com/user/k9yr4po3ajd6kk7awuxwt3ala?si=Isy3JF7IQGaT8xR8yl5SxQ)
 
 ### Connect with me:
 
