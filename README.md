@@ -1,6 +1,6 @@
 ### Hi there, I'm Sujith 👋
 
-[![Website](https://img.shields.io/website?label=SuperBolter.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.superbolter.com)
+[![Website](https://img.shields.io/website?label=SuperBolter.com&style=for-the-badge&url=https%3A%2F%2Fsuperbolter.com)](https://www.superbolter.com)
 
 
 ### Profile Stats:
