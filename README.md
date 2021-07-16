@@ -2,6 +2,12 @@
 
 [![Website](https://img.shields.io/website?label=SuperBolter.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.superbolter.com)
 
+
+### Profile Stats:
+
+[![Sujith's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujith0nair&hide=contribs,prs,issues)](https://github.com/sujith0nair/sujith0anir)
+*Note: The commits are not much, since my working account is private. But will be soon contributing to the community with amazing projects which are underway!*
+
 ## You know me better than you think!!
 
 - 🔭 I currently work as Gameplay Programmer at SuperBolter
@@ -34,10 +40,6 @@
 [<img align="left" alt="WebGL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/webgl.svg" />][website]
 [<img align="left" alt="Oculus" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/oculus.svg" />][oculusproject]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][linkedin]
-
-### Profile Stats:
-
-[![Sujith's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujith0nair)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 <br />
