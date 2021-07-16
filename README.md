@@ -25,15 +25,6 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Sujith Spotify Playing" width="350" />](https://open.spotify.com/user/k9yr4po3ajd6kk7awuxwt3ala?si=Isy3JF7IQGaT8xR8yl5SxQ)
 
-### Connect with me:
-
-[<img align="left" alt="SuperBolter.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Sujith | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Sujith | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Sujith | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Sujith | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
-<br />
-
 ### Languages and Tools:
 
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][youtube]
@@ -45,8 +36,17 @@
 [<img align="left" alt="WebGL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/webgl.svg" />][website]
 [<img align="left" alt="Oculus" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/oculus.svg" />][oculusproject]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][linkedin]
-
 <br />
+
+### Connect with me:
+
+[<img align="left" alt="SuperBolter.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Sujith | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Sujith | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Sujith | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Sujith | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
+<br />
+
 <br />
 
 ---
