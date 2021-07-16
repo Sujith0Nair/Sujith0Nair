@@ -5,7 +5,8 @@
 
 ### Profile Stats:
 
-[![Sujith's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujith0nair&hide=contribs,prs,issues)](https://github.com/sujith0nair/sujith0anir)
+[![Sujith's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujith0nair&hide=contribs,prs,issues&show_icons=true&theme=radical)](https://github.com/sujith0nair/sujith0nair)
+
 *Note: The commits are not much, since my working account is private. But will be soon contributing to the community with amazing projects which are underway!*
 
 ## You know me better than you think!!
