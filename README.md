@@ -52,7 +52,6 @@
 
 ---
 [apex]: https://www.ea.com/games/apex-legends
-[website]: https://superbolter.com
 [youtube]: https://www.youtube.com/channel/UCyTOcnkSbZJ-4Kls0PNGF3g
 [instagram]: https://instagram.com/sujith0nair
 [linkedin]: https://www.linkedin.com/in/sujithpudussery/
