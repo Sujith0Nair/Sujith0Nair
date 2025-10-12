@@ -15,7 +15,7 @@
 
 ## You know me better than you think!!
 
-- 🔭 I currently work as Gameplay Programmer at SuperBolter
+- 🔭 I currently work as Senior Software Developer at Terrabyte Technologies
 - 🌱 Crunching design patterns and S.O.L.I.D concepts along the way
 - 👯 Expert in WebGL (*Know better by visiting our site using link above*)
 - 🥅 Apex Legends player -> Catch me with id: Sujith0Nair <*Mozambique🔫 here!*> 
